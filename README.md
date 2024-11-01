@@ -1,7 +1,7 @@
 # Projeto Responsivo para Dispositivos Móveis 📱
 
-! <img src="https://github.com/DanielMartins22/Se-Localize/blob/master/img/Desktop.png?raw=true"/>
-  <img src="https://github.com/DanielMartins22/Se-Localize/blob/master/img/Cell.png?raw=true"/>
+  <img src="https://github.com/DanielMartins22/Se-Localize/blob/master/img/Desktop.png?raw=true" alt="Imagem-de-como-fica-no-computador"/>
+  <img src="https://github.com/DanielMartins22/Se-Localize/blob/master/img/Cell.png?raw=true" alt="Imagem-de-como-fica-no-celular"/>
 
 
 ## Descrição
