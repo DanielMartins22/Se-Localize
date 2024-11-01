@@ -135,7 +135,7 @@ p{
         height: 288px;
         position: relative;
         top: 600px;
-        margin-left: 40px;
+        margin-left: 50px;
     }
 
     h1{
@@ -145,7 +145,7 @@ p{
         line-height: 30px; 
         letter-spacing: 0.596px;
         margin-top: -140px;
-        margin-left: 60px;
+        margin-left: 70px;
     }
 
     p{
@@ -154,14 +154,14 @@ p{
         font-size: 18px;
         line-height: 33px; 
         letter-spacing: 0.5px;
-        margin-left: 40px;        
+        margin-left: 60px;        
     }
 
     .info{
         font-size: 18px;
         line-height: normal;
         letter-spacing: 1px;
-        margin-left: 135px;
+        margin-left: 158px;
     }
 
 }
